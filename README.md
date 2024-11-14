@@ -11,6 +11,6 @@ This project builds a model to assist in early diagnosis and potential intervent
 ## Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/jaswanthaitha21/heart_disease_predictor.git
-cd heart_disease_predictor
+git clone https://github.com/jaswanthaitha21/Heart_Disease_Predictor.git
+cd Heart_Disease_Predictor
 pip install -r requirements.txt
